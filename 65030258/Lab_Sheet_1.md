@@ -1,8 +1,11 @@
 # การใช้งาน Github ร่วมกับ Visual studio code
 ## แนวทางการทำงานกับ branch
 
-1. สร้าง folder ใหม่เพื่อใช้เป็น local repository
+ส่งงาน 65030258 สิทธา กล้าพานิช 
 
+https://github.com/SitthaKlaphanich/github_VSCode.git
+
+1. สร้าง folder ใหม่เพื่อใช้เป็น local repository
 
 ![Alt text](./Pictures/Picture-11.png)
 
