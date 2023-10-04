@@ -125,6 +125,9 @@
 
 ![Alt text](./Pictures/Picture-31.png)
 
+ภาพจากเครื่องคอมพิวเตอร์ 65030258 สิทธา กล้าพานิช
+
+![Alt text](./Pictures/Picture-63.png)
 
 20. publish branch ขึ้นไปยัง server 
 
