@@ -20,6 +20,9 @@
 
 ![Alt text](./Pictures/Picture-13.png)
 
+ภาพจากเครื่องคอมพิวเตอร์ 65030258 สิทธา กล้าพานิช 
+
+![Alt text](./Pictures/Picture-60.png)
 
 [1] กดปุ่มสร้างไฟล์ใหม่
 
@@ -108,6 +111,13 @@
 
 ![Alt text](./Pictures/Picture-29.png)
 
+ภาพจากเครื่องคอมพิวเตอร์ 65030258 สิทธา กล้าพานิช ก่อนกด +
+
+![Alt text](./Pictures/Picture-61.png)
+
+ภาพจากเครื่องคอมพิวเตอร์ 65030258 สิทธา กล้าพานิช หลังกด +
+
+![Alt text](./Pictures/Picture-62.png)
 
  ![Alt text](./Pictures/Picture-30.png)
 
